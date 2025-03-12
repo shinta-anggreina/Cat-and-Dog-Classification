@@ -25,7 +25,6 @@ The CNN model is built using the following layers:
 ## 📊 Training Results
 - **Training accuracy**: 99.69%
 - **Validation accuracy**: 83.31%
-- **Loss analysis**: Signs of overfitting were observed, indicating further optimization potential.
 
 ## 📜 How to Use
 1. Clone this repository:
